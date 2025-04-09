@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Venkata Karthik Varma Sagi</h1>
 <h3 align="center">A passionate data analyst and visualization enthusiast, holding a Master’s in Data Science from UMass Dartmouth.</h3>
-<(img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif”)>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kvingh&label=Profile%20views&color=0e75b6&style=flat" alt="kvingh" /> </p>
 
